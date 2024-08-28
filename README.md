@@ -1,2 +1,2 @@
-# Parallel-Processing-Merge-Sort
+# Parallel-Processing-Insertion-Sort
  A parallel processing approach to optimize a sorting algorithm.
